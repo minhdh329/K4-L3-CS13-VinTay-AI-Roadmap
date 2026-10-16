@@ -4,6 +4,15 @@
 
 Trong bài này, nhóm bạn lập lộ trình 12 tháng cho một sản phẩm AI: làm gì trước, dựa vào bằng chứng nào, khi nào tăng mức tự động và khi nào dừng. Sản phẩm cuối là **một file Excel của nhóm** và **một slide cho lãnh đạo**, lưu trong repo GitHub của nhóm. Mỗi thành viên nộp cùng link repo trên VLearn. Bạn không cần viết code, cài Python hay có API key.
 
+## Bài nộp nhóm
+
+- Tên nhóm: VinTay
+- Số nhóm: 1
+- Đề CS13: Đề 1 — SổSạch, đọc hóa đơn đầu vào
+- Excel nhóm: [VinTay_CS13.xlsx](VinTay_CS13.xlsx)
+- Slide lãnh đạo: [Nhom1_CS13_SlideLanhDao.pptx](Nhom1_CS13_SlideLanhDao.pptx)
+- Thành viên và đóng góp: [team/TEAM.md](team/TEAM.md)
+
 ## Bắt đầu từ đâu?
 
 1. Xem [luật làm bài](RULES.md), rồi xác định đề của nhóm trong bảng dưới.
